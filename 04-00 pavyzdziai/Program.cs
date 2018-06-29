@@ -49,6 +49,27 @@ namespace _04_00_pavyzdziai
             // Jusu vairuojamas auto: ...
             // Jusu megstamiausia spalva: ...
             // Nebe jusu korteles duomenys: ...
+
+            /*
+             suvesti šią informaciją apie gyvūną to klausinėjant
+             vartotojo:
+             - vardas
+             - kailio spalva
+             - kilmė
+             - rūšis
+             - greitis
+             šią informaciją išvesti po visų įvedimų kaip nors gražiai
+             */
+
+            Console.WriteLine("Gyvūno vardas?");
+            var gyvunoVardas = Console.ReadLine();
+
+            // ...
+
+            /* liepti vartotojui suvesti 5 skaičius vieną po kito
+             * išvesti į ekraną pirmą ir paskutinį skaičius
+             * išvesti į ekraną antro, trečio ir ketvirto skaičių sumą
+             */
         }
     }
 }
