@@ -115,6 +115,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11 for ciklas", "11 for cik
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-00 pavyzdziai", "11-00 pavyzdziai\11-00 pavyzdziai.csproj", "{5F8D4128-5B8E-43A9-9A93-9ADB68526FE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-01 tarpine uzduotis", "10-01 tarpine uzduotis\10-01 tarpine uzduotis.csproj", "{1E90F461-0695-47EC-B726-72AD9155997E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -301,6 +303,10 @@ Global
 		{5F8D4128-5B8E-43A9-9A93-9ADB68526FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F8D4128-5B8E-43A9-9A93-9ADB68526FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F8D4128-5B8E-43A9-9A93-9ADB68526FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E90F461-0695-47EC-B726-72AD9155997E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E90F461-0695-47EC-B726-72AD9155997E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E90F461-0695-47EC-B726-72AD9155997E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E90F461-0695-47EC-B726-72AD9155997E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -351,6 +357,7 @@ Global
 		{8C2885AB-F7CF-4FF0-B551-6970099EB34D} = {4A55A70C-5423-4151-B8BD-22674A5A0424}
 		{E0E5D662-65B5-4EAC-84FC-D6B9422A20D7} = {4A55A70C-5423-4151-B8BD-22674A5A0424}
 		{5F8D4128-5B8E-43A9-9A93-9ADB68526FE5} = {D3FF088A-519F-46F8-ADDE-7D595D9228C1}
+		{1E90F461-0695-47EC-B726-72AD9155997E} = {80B88424-2406-4A45-8A35-0F3F28A98746}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B14FD04B-CFB2-4D12-A016-0D121E6043BE}
